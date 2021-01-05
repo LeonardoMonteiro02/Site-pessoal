@@ -9,3 +9,4 @@ O código neste repositório esta sendo criado em html 5 com a finalidade de des
 -  Conhecendo a estrutura;
 -  Entendendo o que é semântica;
 -  Como usar textos e links em HTML
+-  Como inserir imagem 
