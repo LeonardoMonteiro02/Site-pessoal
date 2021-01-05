@@ -2,7 +2,7 @@
 
 **Olá!**
 
-O código neste repositório esta sendo criado em html 5 com a finalidade de desenvolver um site pessoal para o bootcamp da Avanade.
+O código neste repositório esta sendo criado em HTML 5 com a finalidade de desenvolver um site pessoal para o bootcamp da Avanade.
 
 **Etapas de criação:**
 
@@ -10,3 +10,4 @@ O código neste repositório esta sendo criado em html 5 com a finalidade de des
 -  Entendendo o que é semântica;
 -  Como usar textos e links em HTML
 -  Como inserir imagem 
+-  Como organizar listas em HTML
