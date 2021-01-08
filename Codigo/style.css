@@ -1,0 +1,82 @@
+body{
+	background-image: url("fundo.jpg");     /* mudando a cor de fundo do body*/
+	font-family: arial;   /* mudando a fonte*/
+	margin-top: 0px;      /* removendo a margem do topo do body*/
+	max-width: 900px;     /* determina o tamanho do conteudo na pagina*/
+	margin: auto;         /* centraliza todo o conteudo na pagina*/
+	
+}
+
+
+.contatos{                               /* função para mudanças no bloco contato*/ 
+	display: flex;                       /* colocando cada contato aum ao lado do outro*/
+	background: #E5E4E2;                 /* mudando a cor de fundo da div contatos */
+	padding: 15px;                       /* adicionando um espaçamento entre o conteudo e o bloco */
+	border: 1px solid black;             /* adicionando a borda */
+	border-top: 0px;                     /* removendo a borda superior*/
+	margin: 0px;                         /* removendo todas as margens*/
+	margin-bottom: 30px;                 /* adicionando borda na parte inferior*/
+	border-radius:  0px 0px 15px 15px;   /* arredondando a parte inferior*/
+	justify-content: space-between;      /* deixa o mesmo espacamento dentro da div*/
+}
+
+
+
+.perfil{                       /* função para mudanças na foto de perfil*/
+	border: 1px solid black;   /* colocando borda na foto de perfil*/
+	border-radius: 30px;       /* arredondando imagem*/
+	margin-right: 15px;
+}
+
+
+#title{                          /* função para mudanças no titulo*/
+	color: black;                /* mudando a cor dos titulos*/     
+	text-decoration: underline;  /* adiciona linha abaixo dos titulos*/                        
+	font-size: 15px;             /* altera o tamanho do titulo principal*/
+	text-transform: uppercase;   /* coloca o titulo principal em caixa alta*/
+}
+
+
+
+
+.post_conteudo{               /* função para mudanças no texto*/
+	margin: 0px;              /* remove todas as margens*/
+	margin-bottom: 15px;      /* adiciona margem em baixo*/
+	text-align: justify;
+	
+}
+
+.informacoes_pessoais{
+	display: flex;            /* colocando cada contato aum ao lado do outro*/
+	background: #E5E4E2;      /* mudando a cor de fundo do article */
+	padding: 15px;            /* adicionando um espaçamento entre o conteudo e o bloco */
+	border: 1px solid black;  /* adicionando a borda */
+	border-radius:  20px;     /* arredondando a bordas do bloco */ 
+	margin-bottom: 30px;      /* adicionando borda na parte inferior*/
+}
+.experiencias{
+	padding: 15px; 
+	background: #E5E4E2;      /* mudando a cor de fundo da div contatos */
+	border: 1px solid black;  /* adicionando a borda */
+	border-radius:  20px;     /* arredondando a bordas do bloco */ 
+	margin-bottom: 30px;      /* adicionando borda na parte inferior*/
+}
+
+
+.instituicao{
+	display: flex;
+	margin: 15px;
+	
+}
+
+.certificados{
+	padding: 15px; 
+	background: #E5E4E2;      /* mudando a cor de fundo da div contatos */
+	border: 1px solid black;  /* adicionando a borda */
+	border-radius:  20px;     /* arredondando a bordas do bloco */ 
+	margin-bottom: 30px;      /* adicionando borda na parte inferior*/
+}
+a{
+	margin-top: 10px;
+	color: blue;
+}

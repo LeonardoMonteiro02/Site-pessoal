@@ -11,3 +11,6 @@ O código neste repositório esta sendo criado em HTML 5 com a finalidade de des
 -  Como usar textos e links em HTML
 -  Como inserir imagem 
 -  Como organizar listas em HTML
+-  Introdução e conceitos básicos de CSS3
+-  Estilizar os elementos como textos e listas
+-  Dimensionamento e alinhamento 
